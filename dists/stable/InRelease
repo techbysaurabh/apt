@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Wed, 23 Sep 2026 07:11:02 +0000
+Description: MeetingInsights — on-device meeting recorder for Linux
+Label: MeetingInsights
+Origin: techbysaurabh
+Suite: stable
+MD5Sum:
+ 258bb07ca703bfecb09f9f4e15321b66              222 Release
+ 1ae1d1366f82822dfff0d2b5f9799b22             1320 main/binary-amd64/Packages
+ c825d5f3a0fde8c77a4b05fe65407330              812 main/binary-amd64/Packages.gz
+SHA1:
+ cc08ab032c492ee24407602f843ceb50c757a13a              222 Release
+ eac45fe073e571d878aea9f3bc508fcfac2b4865             1320 main/binary-amd64/Packages
+ 926b485b98f0e49f678a2c5def8f5d7ce0af17ea              812 main/binary-amd64/Packages.gz
+SHA256:
+ 2f218a41c967cfea65913af5425f0dcbb6035d9ac24e77de536bd508eaaa07bb              222 Release
+ 13468574b20b4634c020af616fa7d2c81734a9a2277bb2c1ad127da0b02710cb             1320 main/binary-amd64/Packages
+ aef485a59cfaf4b175563885fb18c00b185e6923c59c1df7315f0cc6dec00a4c              812 main/binary-amd64/Packages.gz
+SHA512:
+ 5c0145df942b553d0b2055c0fe83ed50e4627e71b02e8caad65f8b8cd45d28ad517b0375973c25ee875af4ca27a99929c02ddd51daf1fe961d9a96879ae96f4b              222 Release
+ 766e96fa4d61b1013a5a57906f92c1bd011eba3499fe9b4fe58ef006e2e816d7c1173b03592c0938fbf5f2652f19ab07c3beb71180e6b32ded613be145a591ca             1320 main/binary-amd64/Packages
+ 3b0ab7568477d438b383aeacc413942b354042a7ce70c4abe7f368a97aad20b9ce63e6a8e21cce59ce02ea90e1ad3285a4b5aac79e42b2630251af82c868e3cf              812 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEtK6y112eIe8Lu2nT9LncL8mpgZsFAmqze4YACgkQ9LncL8mp
+gZv+XBAA2nA6n6QYXNd1r8PfL/qOBhC/wvK5nowPfV/unF2hiHc4RVJq5dw/FXJm
+1UGLxnbebD7B1DgBrHV7PDsEEXZERCqUH20TFh3dqR+OGT4TcJG9zOcmk0MpU+Ai
+UOVE7JnQEb1mpicL5BXU8032tzBMv7+snVyLnXSBBbPXWgfIY2CtaYsMNuEu1TSn
+R2O5TustYoAYCTUksrUKVfNw6Vd3Yetk4B7SHOMH1XndOQGUh6uF4sa08ZoCQxrz
+G+MomRj4yNNSpT6e8fPca0GOLwswcDiIftMaTVknJSO/AopNe2pA2V29hm/O/f0q
+kojjuIl5SzTN2mVN04SPWXJIdaPzfUN3J9/WIA/PbZV9quKFMw6V1vrcQPru5mXm
+KxYmLB8MazWRU+w5hS9fOSiA3+7cMDHkzwpkOUiP7hhHyRGA8CiCMwLZG9eEQJ/o
+6X56Wage5u8pw1JS3eiBenh4tP6Bzbw4ZoriqUEZp3ka4Fp9Fnn4ZTOOWeqsjm2t
+f5x41xlpX2pdKQQyaisXN/7y6VC3bNaIuNgag94+S+6x0UHYILB3MkRJDVkZ24qD
+pZtNLSUqYshZ3zztPvURer1IZAddkBMLFK3CPzrD+tJn8zZ/n5VHTEtQDc8eo5Aj
+viILlrZW33YHSrOJ/HtZEZwMojUgoR9ouo5cJ1A1yQG6yFYG0Xk=
+=eTGU
+-----END PGP SIGNATURE-----
