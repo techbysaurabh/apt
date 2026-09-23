@@ -1,14 +1,14 @@
 Package: meetinginsights
-Version: 0.1.5
+Version: 0.1.6
 Architecture: amd64
 Maintainer: techbysaurabh <hi.techbysaurabh@gmail.com>
-Installed-Size: 43784
+Installed-Size: 43788
 Depends: python3 (>= 3.8), python3-venv, python3-gi, gir1.2-gtk-3.0, gir1.2-webkit2-4.0, gir1.2-notify-0.7, pulseaudio-utils, ffmpeg, curl, libc6 (>= 2.14), libgcc-s1, libstdc++6
-Filename: pool/main/meetinginsights_0.1.5_amd64.deb
-Size: 7618924
-MD5sum: db73d7afda1c391adc74d4fa7c796043
-SHA1: 57c984cb6cd2b5c3db125a1ca551a5e669c57cb2
-SHA256: d0c1773abd4fe5fb25e2809e8c39eddc3a876fcad10431e478c39206b2e32b73
+Filename: pool/main/meetinginsights_0.1.6_amd64.deb
+Size: 7614488
+MD5sum: 9c321da84edd6a983059a5b689107222
+SHA1: 566b8d359c201cfb40ba9521190fa233aff641d4
+SHA256: 494fd2dd1549c39851bccae266e06f0eda86b9851edba6dd49f6f33080377920
 Section: sound
 Priority: optional
 Homepage: https://github.com/techbysaurabh/meetinginsights-linux
