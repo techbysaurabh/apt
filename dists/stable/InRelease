@@ -4,40 +4,40 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Wed, 23 Sep 2026 07:11:02 +0000
+Date: Wed, 23 Sep 2026 07:52:08 +0000
 Description: MeetingInsights — on-device meeting recorder for Linux
 Label: MeetingInsights
 Origin: techbysaurabh
 Suite: stable
 MD5Sum:
- 258bb07ca703bfecb09f9f4e15321b66              222 Release
- 1ae1d1366f82822dfff0d2b5f9799b22             1320 main/binary-amd64/Packages
- c825d5f3a0fde8c77a4b05fe65407330              812 main/binary-amd64/Packages.gz
+ ec7f6f823830cc13bb49e2fedce09c67              222 Release
+ ae6e3c4a1d13bf855c6eaa04e446cb61             1320 main/binary-amd64/Packages
+ fe7a3e4ae97ad5fb14b4f849c373cf43              805 main/binary-amd64/Packages.gz
 SHA1:
- cc08ab032c492ee24407602f843ceb50c757a13a              222 Release
- eac45fe073e571d878aea9f3bc508fcfac2b4865             1320 main/binary-amd64/Packages
- 926b485b98f0e49f678a2c5def8f5d7ce0af17ea              812 main/binary-amd64/Packages.gz
+ 907414acfdbf57cf005a422917e88596318db07e              222 Release
+ 8c1b0613cae224e790dbe2f16fa9b86221a0e63a             1320 main/binary-amd64/Packages
+ 660f7eceecbed13a18868c91d885170772573217              805 main/binary-amd64/Packages.gz
 SHA256:
- 2f218a41c967cfea65913af5425f0dcbb6035d9ac24e77de536bd508eaaa07bb              222 Release
- 13468574b20b4634c020af616fa7d2c81734a9a2277bb2c1ad127da0b02710cb             1320 main/binary-amd64/Packages
- aef485a59cfaf4b175563885fb18c00b185e6923c59c1df7315f0cc6dec00a4c              812 main/binary-amd64/Packages.gz
+ a95069bf43ae2d3e0a16d2c6010b49e13e33ac7c180dab0afae34c660fc3adc8              222 Release
+ 7c6ab96df81e2c4c4de325c03dd398cbc20e1dce616246b00fe77bbd62bc2209             1320 main/binary-amd64/Packages
+ 4f83569bad63db7ad445f1803d00c38a8a782fcf508f0ecf45076fc76a5a427e              805 main/binary-amd64/Packages.gz
 SHA512:
- 5c0145df942b553d0b2055c0fe83ed50e4627e71b02e8caad65f8b8cd45d28ad517b0375973c25ee875af4ca27a99929c02ddd51daf1fe961d9a96879ae96f4b              222 Release
- 766e96fa4d61b1013a5a57906f92c1bd011eba3499fe9b4fe58ef006e2e816d7c1173b03592c0938fbf5f2652f19ab07c3beb71180e6b32ded613be145a591ca             1320 main/binary-amd64/Packages
- 3b0ab7568477d438b383aeacc413942b354042a7ce70c4abe7f368a97aad20b9ce63e6a8e21cce59ce02ea90e1ad3285a4b5aac79e42b2630251af82c868e3cf              812 main/binary-amd64/Packages.gz
+ 9f949d2c970f51652894a86a12cb7769b2ed38e7e4f75406bc55134b6bf37f994bd1c9d3ae656d197367872cfb6aae6106dbdd0546e011742dfcdf0b4dc82d8e              222 Release
+ 2296ef3b51efe00892a828fc3067989052a9004523d19c24e9e04a7d672265a72ea9e4deb18842178d87553b65fb9754b4df504be14a161389b7b849c4546ae1             1320 main/binary-amd64/Packages
+ df14077d0accbbfea702a93e0426e17fa41bda375c37facf699098b3fc3aba7d3b6dfd3cd2921ac9d496a33d80b1b6b53cf0b52d6053823a3bd681f0f441b729              805 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEtK6y112eIe8Lu2nT9LncL8mpgZsFAmqze4YACgkQ9LncL8mp
-gZv+XBAA2nA6n6QYXNd1r8PfL/qOBhC/wvK5nowPfV/unF2hiHc4RVJq5dw/FXJm
-1UGLxnbebD7B1DgBrHV7PDsEEXZERCqUH20TFh3dqR+OGT4TcJG9zOcmk0MpU+Ai
-UOVE7JnQEb1mpicL5BXU8032tzBMv7+snVyLnXSBBbPXWgfIY2CtaYsMNuEu1TSn
-R2O5TustYoAYCTUksrUKVfNw6Vd3Yetk4B7SHOMH1XndOQGUh6uF4sa08ZoCQxrz
-G+MomRj4yNNSpT6e8fPca0GOLwswcDiIftMaTVknJSO/AopNe2pA2V29hm/O/f0q
-kojjuIl5SzTN2mVN04SPWXJIdaPzfUN3J9/WIA/PbZV9quKFMw6V1vrcQPru5mXm
-KxYmLB8MazWRU+w5hS9fOSiA3+7cMDHkzwpkOUiP7hhHyRGA8CiCMwLZG9eEQJ/o
-6X56Wage5u8pw1JS3eiBenh4tP6Bzbw4ZoriqUEZp3ka4Fp9Fnn4ZTOOWeqsjm2t
-f5x41xlpX2pdKQQyaisXN/7y6VC3bNaIuNgag94+S+6x0UHYILB3MkRJDVkZ24qD
-pZtNLSUqYshZ3zztPvURer1IZAddkBMLFK3CPzrD+tJn8zZ/n5VHTEtQDc8eo5Aj
-viILlrZW33YHSrOJ/HtZEZwMojUgoR9ouo5cJ1A1yQG6yFYG0Xk=
-=eTGU
+iQIzBAEBCgAdFiEEtK6y112eIe8Lu2nT9LncL8mpgZsFAmqzhSgACgkQ9LncL8mp
+gZvidg/+K2ZY3HvAH4qGZ4If0vOuDo+3rRMUAoLZkXM+CPEfdH3lf7gEzF5+EKIT
+96Op7fxEDnnvf0OiBZEa8iPdUNwi/dGMMqMIfxX5rmnUUJq7qpWwwxZgXv6RDsug
+VmohET7eRGHMvm2/annaIcu2G4hv/HR+s2xk3g3ObjTHXHPSCt7LBI7pTy1LBx3l
+xXmQGzerHNfRV1MVRxbP6oO8eUanCOaQFWonfw8KD2khJsJacPGNy9ogkLLmzmNU
+tev1rsfKi8VknfKnO4ilm0fVGYrQmgj+LAGsc3naGUiWJr9uxONlBoiSqV2zg3EK
+OJ7dz/EF5gaaTsIFeDjHVNncS8bUlFHGwRrhTk1wvBRZKM6plwluFfBTMe9aa6NU
+a2mFcJYjZ4o6akIpeDprtAd0HJB4SMBhCwF7tu7Dhn5Wyx7bjDKAQxbWfNfqErAy
+ML8dbqO7CZCIntp38kOXrwabbVhDmv8NfROZAngJXQixMztj46KfH4/0B+Nrs9Zx
+no9Nkp8KOJr51kU+VAJcH7Hj78etayxlCE9Ype5N2VBA7pGLZvdKzOdVMj5q+XWq
+AjkOjAiYK+tYdCW85LjOTC7MyIMRfgbzOHkEI3yLdFXKmm2AeoXd8YYC7ZKTQQH3
+wQWCkwn7EyTM7pZHWp67PXY3MjsnDNva3xeVEow51MFFLWvZH3Q=
+=6cgN
 -----END PGP SIGNATURE-----
